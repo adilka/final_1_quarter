@@ -1,0 +1,15 @@
+C:\Users\IMPERATOR\Desktop\Folder\GB_HomeWorks\final_1st\bin\Debug\net6.0\final_1st.exe
+C:\Users\IMPERATOR\Desktop\Folder\GB_HomeWorks\final_1st\bin\Debug\net6.0\final_1st.deps.json
+C:\Users\IMPERATOR\Desktop\Folder\GB_HomeWorks\final_1st\bin\Debug\net6.0\final_1st.runtimeconfig.json
+C:\Users\IMPERATOR\Desktop\Folder\GB_HomeWorks\final_1st\bin\Debug\net6.0\final_1st.dll
+C:\Users\IMPERATOR\Desktop\Folder\GB_HomeWorks\final_1st\bin\Debug\net6.0\final_1st.pdb
+C:\Users\IMPERATOR\Desktop\Folder\GB_HomeWorks\final_1st\obj\Debug\net6.0\final_1st.csproj.AssemblyReference.cache
+C:\Users\IMPERATOR\Desktop\Folder\GB_HomeWorks\final_1st\obj\Debug\net6.0\final_1st.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMPERATOR\Desktop\Folder\GB_HomeWorks\final_1st\obj\Debug\net6.0\final_1st.AssemblyInfoInputs.cache
+C:\Users\IMPERATOR\Desktop\Folder\GB_HomeWorks\final_1st\obj\Debug\net6.0\final_1st.AssemblyInfo.cs
+C:\Users\IMPERATOR\Desktop\Folder\GB_HomeWorks\final_1st\obj\Debug\net6.0\final_1st.csproj.CoreCompileInputs.cache
+C:\Users\IMPERATOR\Desktop\Folder\GB_HomeWorks\final_1st\obj\Debug\net6.0\final_1st.dll
+C:\Users\IMPERATOR\Desktop\Folder\GB_HomeWorks\final_1st\obj\Debug\net6.0\refint\final_1st.dll
+C:\Users\IMPERATOR\Desktop\Folder\GB_HomeWorks\final_1st\obj\Debug\net6.0\final_1st.pdb
+C:\Users\IMPERATOR\Desktop\Folder\GB_HomeWorks\final_1st\obj\Debug\net6.0\final_1st.genruntimeconfig.cache
+C:\Users\IMPERATOR\Desktop\Folder\GB_HomeWorks\final_1st\obj\Debug\net6.0\ref\final_1st.dll
